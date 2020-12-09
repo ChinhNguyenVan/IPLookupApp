@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <size>12</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">f0912e0c2f416010fb383e0ef699b60e</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-08 08:09:29</sys_created_on>
+        <sys_id>7891ee0c2f416010fb383e0ef699b645</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="IPLookup" source="x_559374_iplookup">dca352442f016010fb383e0ef699b6a4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">dca352442f016010fb383e0ef699b6a4</sys_scope>
+        <sys_update_name>sp_column_7891ee0c2f416010fb383e0ef699b645</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-08 08:09:29</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IPLookup">dca352442f016010fb383e0ef699b6a4</application>
+        <file_path/>
+        <instance_id>33635dafdb30a740439ef70fbf9619a5</instance_id>
+        <instance_name>dev72011</instance_name>
+        <name>sp_column_7891ee0c2f416010fb383e0ef699b645</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><size>12</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">f0912e0c2f416010fb383e0ef699b60e</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-08 08:09:29</sys_created_on><sys_id>7891ee0c2f416010fb383e0ef699b645</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="IPLookup" source="x_559374_iplookup">dca352442f016010fb383e0ef699b6a4</sys_package><sys_policy/><sys_scope display_value="IPLookup">dca352442f016010fb383e0ef699b6a4</sys_scope><sys_update_name>sp_column_7891ee0c2f416010fb383e0ef699b645</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-08 08:09:29</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>619459674</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>0f2a56482f016010fb383e0ef699b624</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-08 08:09:29</sys_created_on>
+        <sys_id>b891ee0c2f416010fb383e0ef699b647</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1764165f4620000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-08 08:09:29</sys_updated_on>
+        <type>Column</type>
+        <update_guid>f091ee0c414160100b55d0474d4fc847</update_guid>
+        <update_guid_history>f091ee0c414160100b55d0474d4fc847:619459674</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">9e53e2dc2fc96010fb383e0ef699b694</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-09 02:55:42</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>af7642a383224c7aa73b7178681449f9</sys_id>
+        <sys_metadata>7891ee0c2f416010fb383e0ef699b645</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="IPLookup" source="x_559374_iplookup">dca352442f016010fb383e0ef699b6a4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">dca352442f016010fb383e0ef699b6a4</sys_scope>
+        <sys_scope_delete display_value="">1e5b73a72af445a987580a8f1efb84b9</sys_scope_delete>
+        <sys_update_name>sp_column_7891ee0c2f416010fb383e0ef699b645</sys_update_name>
+        <sys_update_version display_value="sp_column_7891ee0c2f416010fb383e0ef699b645">b891ee0c2f416010fb383e0ef699b647</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-09 02:55:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

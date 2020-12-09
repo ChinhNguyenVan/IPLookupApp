@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="IPAddressInfo" max_length="40" name="x_559374_iplookup_ipaddressinfo" type="collection">
+    <element label="IPAddressInfo" max_length="40" name="x_559374_iplookup_ipaddressinfo" sizeclass="1" type="collection">
         <element label="IP address" max_length="40" name="ip_address" type="string"/>
         <element label="String" max_length="400" name="string" type="string"/>
     </element>

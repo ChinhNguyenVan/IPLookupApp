@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">29ceaac02f816010fb383e0ef699b6ac</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-08 09:11:14</sys_created_on>
+        <sys_id>5dbfa2842f816010fb383e0ef699b666</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="IPLookup" source="x_559374_iplookup">dca352442f016010fb383e0ef699b6a4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">dca352442f016010fb383e0ef699b6a4</sys_scope>
+        <sys_update_name>sp_instance_link_5dbfa2842f816010fb383e0ef699b666</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-08 09:11:14</sys_updated_on>
+        <title/>
+        <type>page</type>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=5dbfa2842f816010fb383e0ef699b666"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IPLookup">dca352442f016010fb383e0ef699b6a4</application>
+        <file_path/>
+        <instance_id>33635dafdb30a740439ef70fbf9619a5</instance_id>
+        <instance_name>dev72011</instance_name>
+        <name>sp_instance_link_5dbfa2842f816010fb383e0ef699b666</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link"><sp_instance_link action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><kb_article/><kb_category/><kb_topic/><order>1</order><roles/><sc_cat_item/><sc_category/><short_description/><size>md</size><sp_column display_value="1">29ceaac02f816010fb383e0ef699b6ac</sp_column><sp_page/><sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget><sys_class_name>sp_instance_link</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-08 09:11:14</sys_created_on><sys_id>5dbfa2842f816010fb383e0ef699b666</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="IPLookup" source="x_559374_iplookup">dca352442f016010fb383e0ef699b6a4</sys_package><sys_policy/><sys_scope display_value="IPLookup">dca352442f016010fb383e0ef699b6a4</sys_scope><sys_update_name>sp_instance_link_5dbfa2842f816010fb383e0ef699b666</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-08 09:11:14</sys_updated_on><title/><type>page</type><url/><widget_parameters/></sp_instance_link><sys_translated_text action="delete_multiple" query="documentkey=5dbfa2842f816010fb383e0ef699b666"/></record_update>]]></payload>
+        <payload_hash>-80432037</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>0f2a56482f016010fb383e0ef699b624</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-08 09:11:14</sys_created_on>
+        <sys_id>99bfa2842f816010fb383e0ef699b668</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>176419e7bcd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-08 09:11:14</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>d1bfa284cf8160103d4afe7c9dec6c68</update_guid>
+        <update_guid_history>d1bfa284cf8160103d4afe7c9dec6c68:-80432037</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">c253e2dc2fc96010fb383e0ef699b630</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-09 02:55:41</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>00af8290529b489d800ddb17f0f8a7e1</sys_id>
+        <sys_metadata>5dbfa2842f816010fb383e0ef699b666</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="IPLookup" source="x_559374_iplookup">dca352442f016010fb383e0ef699b6a4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">dca352442f016010fb383e0ef699b6a4</sys_scope>
+        <sys_scope_delete display_value="">1e5b73a72af445a987580a8f1efb84b9</sys_scope_delete>
+        <sys_update_name>sp_instance_link_5dbfa2842f816010fb383e0ef699b666</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_5dbfa2842f816010fb383e0ef699b666">99bfa2842f816010fb383e0ef699b668</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-09 02:55:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
